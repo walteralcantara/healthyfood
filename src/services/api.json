@@ -1,0 +1,54 @@
+{
+  "recipes": [
+    {
+      "img": "/images/comida_1.svg",
+      "name": "Broccoli Salad with Bacon"
+    },
+    {
+      "img": "/images/comida_2.svg",
+      "name": "Classic Beef Burgers"
+    },
+    {
+      "img": "/images/comida_3.svg",
+      "name": "Classic Potato Salad"
+    },
+    {
+      "img": "/images/comida_4.svg",
+      "name": "Cherry Cobbler on the Grill"
+    }
+  ],
+  "blog": [
+    {
+      "img": "/images/blog_image_1.svg",
+      "title": "Quick-start guide to nuts and seeds",
+      "author": {
+        "name": "Kevin Ibrahim",
+        "photo": "/images/author_1.png"
+      }
+    },
+    {
+      "img": "/images/bloco_image_2.svg",
+      "title": "Nutrition: Tips for Improving Your Health",
+      "author": {
+        "name": "Mike Jackson",
+        "photo": "/images/author_2.png"
+      }
+    },
+    {
+      "img": "/images/bloco_image_3.svg",
+      "title": "The top 10 benefits of eating healthy",
+      "author": {
+        "name": "Bryan McGregor",
+        "photo": "/images/author_3.png"
+      }
+    },
+    {
+      "img": "/images/bloco_image_4.svg",
+      "title": "What Makes a Healthy Diet?",
+      "author": {
+        "name": "Jashua",
+        "photo": "/images/author_4.png"
+      }
+    }
+  ]
+}
